@@ -1,6 +1,6 @@
-!/bin/bash
+#!/bin/bash
 
-#AUTHOR: sabina 
+#AUTHOR: Sabina 
 
 Description ------------------------------------Installation Docker in EC2 instance
 
